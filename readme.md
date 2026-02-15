@@ -51,6 +51,10 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 - [revolt-cobol-api](https://github.com/kabylake1/revolt-cobol-api) - A COBOL API wrapper for making Stoat bots.
 
+### C
+
+- [Ermine](https://codeberg.org/averymt/ermine) - A C99 Stoat API library with minimal external dependencies.
+
 ## 🤖 Bots
 
 - [Lightning](https://codeberg.org/jersey/lightning/) - A cross-platform bot that bridges Discord and Stoat.
